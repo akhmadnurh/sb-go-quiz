@@ -7,7 +7,7 @@ Username: user
 Password: user
 
 --- API ---
-GET /api/categories
+GET /api/categories \n
 GET /api/categories/:id
 GET /api/categories/:id/books
 POST /api/categories
